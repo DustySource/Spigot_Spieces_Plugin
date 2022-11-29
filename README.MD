@@ -1,3 +1,6 @@
-First Big Java Project Pretty bad practice and unorganized O.o
+this is my 2nd java project and it is FUCKING TERRIBLY written
 
-However it runs if you want to run this on your own server go ahead. If you want to add additional playable races headover to RaceListener.java and goodluck :3
+however it does run! if you wish to use it on your own server gor right ahead!!
+
+If you want to add new races head over to racelistener 
+but im sorry for your pain and suffering in advance lol
